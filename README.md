@@ -21,7 +21,7 @@ const rafael = {
     education: "Bachelor of Science in Information Technology",
     currentFocus: ["Mobile Application", "Modern Web Technologies"],
     goals: "Building impactful projects",
-    funFact: "I love learning and adapting to technological advancements "
+    funFact: "I love learning and adapting to technological advancements"
 };
 
 console.log("Ready to code!");
