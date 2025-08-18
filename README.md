@@ -1,7 +1,8 @@
+![Profile views](https://komarev.com/ghpvc/?username=rhaprace&color=blue) 
 <div align="center">
 
 # Hello, I'm Rafael Race
-![Profile views](https://komarev.com/ghpvc/?username=rhaprace&color=blue) 
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Web+Developer;BSIT+Student;Frontend+Enthusiast" alt="Typing SVG" />
 
