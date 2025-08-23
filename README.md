@@ -18,7 +18,7 @@
 
 ```javascript
 const rafael = {
-    title: "Aspiring Software Engineer",
+    title: "Junior FullStack Developer",
     location: "Philippines 🇵🇭",
     education: "Bachelor of Science in Information Technology",
     currentFocus: ["Mobile Application", "Modern Web Technologies"],
