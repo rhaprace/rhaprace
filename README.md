@@ -4,7 +4,7 @@
 # Hello, I'm Rafael Race
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Web+Developer;BSIT+Student;Frontend+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Fullstack Developer" alt="Typing SVG" />
 
 </div>
 
