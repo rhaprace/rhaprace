@@ -38,50 +38,6 @@ console.log("Ready to code!");
 
 </div>
 
----
-
-<div align="center">
-
-### Featured Projects
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-**🏋️‍♂️ Atletech - AI Fitness App**
-- AI-powered fitness tracker with personalized meal plans
-- Built with React, JavaScript, CSS, AI/ML
-- [🔗 Live Demo](http://atletechteam.netlify.app/) | [📋 Code](https://github.com/rhaprace/Atletech)
-
-</td>
-<td width="50%">
-
-**📚 JavaScript Basics Documentation**
-- Comprehensive JS learning resource for beginners
-- Interactive examples and structured learning paths
-- [🔗 Live Demo](https://js-docs-tau.vercel.app/)
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### Certifications
-
-<img src="https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
-<img src="https://img.shields.io/badge/freeCodeCamp-JavaScript%20Algorithms-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
-
-<img src="https://img.shields.io/badge/freeCodeCamp-Frontend%20Libraries-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
-<img src="https://img.shields.io/badge/freeCodeCamp-Backend%20&%20APIs-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
-
-</div>
-
----
 
 <div align="center">
 
