@@ -21,10 +21,10 @@ const rafael = {
 ## Tech Stack
 
 **Frontend**  
-React · TypeScript · JavaScript · HTML · CSS · Tailwind CSS
+React · TypeScript · JavaScript · HTML · CSS
 
 **Backend & Tools**  
-MongoDB · Firebase · Git · GitHub
+Express · NodeJs · Flask · FastAPI · Github · Git · Drizzle ORM
 
 ---
 
@@ -38,4 +38,4 @@ MongoDB · Firebase · Git · GitHub
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rhaprace&color=grey&style=flat)
 
-*An aspiring developer who loves learning and building clean, responsive user interfaces*
+*A developer who loves learning and building clean, human designs interfaces*
