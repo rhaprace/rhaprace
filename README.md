@@ -24,7 +24,7 @@ const rafael = {
 React · TypeScript · JavaScript · HTML · CSS
 
 **Backend & Tools**  
-Express · NodeJs · Flask · FastAPI · Github · Git · Drizzle ORM
+NodeJs · Flask · FastAPI · Github · Git · Drizzle ORM
 
 ---
 
