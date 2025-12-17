@@ -4,7 +4,7 @@
 # Rafael Race  
 **Fullstack Developer — Mobile & Web Applications**
 
-[LinkedIn](https://linkedin.com/in/rafael-race-54033719b) • [Email](mailto:rhap.dev@gmail.com) • [GitHub](https://github.com/rhaprace) • [Portfolio](https://rhaprace.github.io/)
+[LinkedIn](https://linkedin.com/in/rafael-race-54033719b) • [Email](mailto:rhap.dev@gmail.com) • [Portfolio](https://rhaprace.github.io/)
 
 </div>
 
