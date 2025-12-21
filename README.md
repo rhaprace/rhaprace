@@ -32,9 +32,9 @@ const journey = {
 
 I don't just pick tools because they're trendy—I choose what gets the job done without making life harder later.
 
-**On the frontend**, I build with **React** and **React Native**, bringing ideas to life across mobile and web with **TypeScript** keeping things predictable.
+**On the frontend**, I build with **React** and **React Native**, bringing ideas to life across mobile and web with **TypeScript** keeping things predictable. Lately, I've been really enjoying **Next.js** paired with **tRPC** (the T3 stack)—it's changed how I think about full-stack development.
 
-**On the backend**, I reach for **Node.js**, **FastAPI**, and **Flask** depending on what the project needs—speed, simplicity, or scale.
+**On the backend**, I've worked with **Node.js**, **FastAPI**, and **Flask**, but right now I'm exploring **Ruby on Rails**. There's something refreshing about Rails' conventions after years of JavaScript-land.
 
 **Behind the scenes**, I rely on **Git** for version control, **Drizzle ORM** for databases that don't make me cry, and **REST APIs** to connect it all. I ship to **Vercel** when I want something live yesterday.
 
