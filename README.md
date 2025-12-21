@@ -1,8 +1,9 @@
-<div align="left"> <img src="https://komarev.com/ghpvc/?username=rhaprace&color=blueviolet&style=flat&label=PROFILE+VIEWS" />
 <div align="center">
+<img src="https://komarev.com/ghpvc/?username=rhaprace&color=blueviolet&style=flat&label=PROFILE+VIEWS" />
 
-# Rafael Race  
-**Fullstack Developer — Mobile & Web Applications**
+# 👋 Hey, I'm Rafael
+
+**Building things people actually want to use**
 
 [LinkedIn](https://linkedin.com/in/rafael-race-54033719b) • [Email](mailto:rhap.dev@gmail.com) • [Portfolio](https://rhaprace.github.io/)
 
@@ -10,65 +11,61 @@
 
 ---
 
-## About Me
+## The Story So Far
 
-I’m a developer focused on building **reliable**, **maintainable**, and **user-centered** applications.  
-My work spans mobile and web development, with a strong emphasis on clean architecture and modern tooling.
+I started coding because I wanted to build things that mattered. Not just apps that work, but experiences that feel *right*—the kind where users don't have to think twice about where to tap or what comes next.
+
+Today, I spend my days crafting mobile and web applications that balance performance with personality. I believe the best code is the kind that future-me (or future-you) can read without needing a decoder ring.
 
 ```javascript
-const rafael = {
-  role: "Fullstack Developer",
-  specialization: ["Mobile Development", "Modern Web Applications"],
-  tools: ["React Native", "React", "Node.js", "FastAPI"],
-  interests: ["App Performance", "Developer Experience", "Clean UI/UX"]
+const journey = {
+  started: "with curiosity",
+  driven_by: "solving real problems",
+  obsessed_with: ["clean code", "smooth UX", "apps that just work"],
+  currently: "shipping features, learning daily, breaking things (responsibly)"
 };
-````
+```
 
 ---
 
-## Technical Skills
+## What I Work With
 
-### **Frontend**
+I don't just pick tools because they're trendy—I choose what gets the job done without making life harder later.
 
-* React
-* React Native
-* TypeScript / JavaScript
-* HTML / CSS
+**On the frontend**, I build with **React** and **React Native**, bringing ideas to life across mobile and web with **TypeScript** keeping things predictable.
 
-### **Backend**
+**On the backend**, I reach for **Node.js**, **FastAPI**, and **Flask** depending on what the project needs—speed, simplicity, or scale.
 
-* Node.js
-* FastAPI
-* Flask
+**Behind the scenes**, I rely on **Git** for version control, **Drizzle ORM** for databases that don't make me cry, and **REST APIs** to connect it all. I ship to **Vercel** when I want something live yesterday.
 
-### **Tools & Databases**
+---
 
-* Git / GitHub
-* Drizzle ORM
-* REST APIs
-* Vercel
+## How I Build
 
-## GitHub Insights
+I don't believe in perfect code, but I do believe in code that doesn't make you want to quit your job six months later. Here's what guides me:
+
+- **Clarity over cleverness** — If it needs a comment to explain, it probably needs a rewrite
+- **Users over features** — Fancy tech means nothing if the experience feels clunky
+- **Iteration over perfection** — Ship, learn, improve, repeat
+- **Practical solutions** — The best code solves actual problems, not imaginary ones
+
+---
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-omega-silk-74.vercel.app/api/top-langs/?username=rhaprace&layout=compact&theme=default&hide_border=true" />
+## The Numbers
 
+<img height="160" src="https://github-readme-stats-omega-silk-74.vercel.app/api/top-langs/?username=rhaprace&layout=compact&theme=default&hide_border=true" />
 <img height="160" src="https://github-readme-stats-omega-silk-74.vercel.app/api?username=rhaprace&show_icons=true&theme=default&hide_border=true&count_private=true" />
 
 </div>
 
 ---
 
-## Development Philosophy
-
-* Prioritize clean, maintainable code over shortcuts
-* Build interfaces that feel intuitive and human
-* Learn continuously and adapt to new technologies
-* Focus on solving real problems with practical solutions
-
----
 <div align="center">
-<br/>
-<i>“Build with clarity. Ship with confidence.”</i>
+
+*"Make it work. Make it right. Make it fast. In that order."*
+
+**Let's build something together** → [rhap.dev@gmail.com](mailto:rhap.dev@gmail.com)
+
 </div>
