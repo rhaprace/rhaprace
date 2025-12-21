@@ -36,6 +36,8 @@ I don't just pick tools because they're trendy—I choose what gets the job done
 
 **On the backend**, I've worked with **Node.js**, **FastAPI**, and **Flask**, but right now I'm exploring **Ruby on Rails**. There's something refreshing about Rails' conventions after years of JavaScript-land.
 
+**In the AI space**, I'm diving into **prompt engineering**—the field's scaling so fast that I need to keep up. Not just following trends, but understanding how to build AI-powered features that actually enhance what I'm already creating.
+
 **Behind the scenes**, I rely on **Git** for version control, **Drizzle ORM** for databases that don't make me cry, and **REST APIs** to connect it all. I ship to **Vercel** when I want something live yesterday.
 
 ---
