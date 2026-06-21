@@ -35,4 +35,4 @@ Over the past six months I've shipped 900+ commits to a production rugby analyti
 
 ---
 
-*"Make it work. Make it right. Make it fast, in that order."*
+*"Make it work. Make it right. Make it fast. Make it beautiful."*
