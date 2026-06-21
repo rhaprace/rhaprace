@@ -29,6 +29,7 @@ Over the past six months I've shipped 900+ commits to a production rugby analyti
 - **Presentations 2.0, a native TypeScript animation engine (~5,400 lines).** Rebuilt the coaching-presentation builder on a custom animation engine, removing the legacy JavaScript layer entirely.
 - **Decoupled the single-page app's dependency tree (~3,700 lines).** Gave the SPA its own dependencies and build config, untangling it from the legacy bundle.
 - **Public tournament stats page (~1,600 lines).** A read-only, signed-out stats page with hardened guest access.
+- **Rebuilt the game-analysis page on the new SPA (~1,450 lines).** Brought the core analysis view to full parity: sidebar, events, clips, downloads, and presentations.
 - **Native in-app CV editor (~1,100 lines).** Replaced a legacy hand-off editor with a fully native one.
 - **Durable background clip downloads (~1,000 lines).** Moved video-clip generation into a background job, fixing timeouts on long clips.
 
