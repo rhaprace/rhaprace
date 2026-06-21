@@ -1,73 +1,37 @@
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rhaprace&color=blueviolet&style=flat&label=PROFILE+VIEWS" />
+# Rafael Race
 
-# 👋 Hey, I'm Rafael
+Software developer focused on web and mobile applications.
 
-**Building things people actually want to use**
+[LinkedIn](https://linkedin.com/in/rafael-race-54033719b) · [Email](mailto:rhap.dev@gmail.com) · [Portfolio](https://rhaprace.github.io/)
 
-[LinkedIn](https://linkedin.com/in/rafael-race-54033719b) • [Email](mailto:rhap.dev@gmail.com) • [Portfolio](https://rhaprace.github.io/)
+## About
 
-</div>
+I build web and mobile applications, with an emphasis on clean code and interfaces that feel obvious to use. I care about shipping work that holds up. Code the next person, including future me, can read and change without friction.
 
----
+## What I work with
 
-## The Story So Far
+- **Frontend:** React, React Native, TypeScript, Next.js
+- **Backend:** Ruby on Rails, Node.js, FastAPI, Flask
+- **Data & infra:** PostgreSQL, Drizzle ORM, REST APIs, Git, Vercel
+- **AI:** prompt engineering and AI-assisted product features
 
-I started coding because I wanted to build things that mattered. Not just apps that work, but experiences that feel *right*—the kind where users don't have to think twice about where to tap or what comes next.
+## How I work
 
-Today, I spend my days crafting mobile and web applications that balance performance with personality. I believe the best code is the kind that future-me (or future-you) can read without needing a decoder ring.
+- Clarity over cleverness
+- Users over features
+- Ship, learn, improve
+- Solve real problems, not imaginary ones
 
-```javascript
-const journey = {
-  started: "with curiosity",
-  driven_by: "solving real problems",
-  obsessed_with: ["clean code", "smooth UX", "apps that just work"],
-  currently: "shipping features, learning daily, breaking things (responsibly)"
-};
-```
+## Recent work
 
----
+Over the past six months I've shipped 900+ commits to a production rugby analytics platform, a React/TypeScript single-page app on a Ruby on Rails backend. A few pieces I'm proud of:
 
-## What I Work With
-
-I don't just pick tools because they're trendy—I choose what gets the job done without making life harder later.
-
-**On the frontend**, I build with **React** and **React Native**, bringing ideas to life across mobile and web with **TypeScript** keeping things predictable. Lately, I've been really enjoying **Next.js** paired with **tRPC** (the T3 stack)—it's changed how I think about full-stack development.
-
-**On the backend**, I've worked with **Node.js**, **FastAPI**, and **Flask**, but right now I'm exploring **Ruby on Rails**. There's something refreshing about Rails' conventions after years of JavaScript-land.
-
-**In the AI space**, I'm diving into **prompt engineering**—the field's scaling so fast that I need to keep up. Not just following trends, but understanding how to build AI-powered features that actually enhance what I'm already creating.
-
-**Behind the scenes**, I rely on **Git** for version control, **Drizzle ORM** for databases that don't make me cry, and **REST APIs** to connect it all. I ship to **Vercel** when I want something live yesterday.
+- **Presentations 2.0, a native TypeScript animation engine (~5,400 lines).** Rebuilt the coaching-presentation builder on a custom animation engine, removing the legacy JavaScript layer entirely.
+- **Decoupled the single-page app's dependency tree (~3,700 lines).** Gave the SPA its own dependencies and build config, untangling it from the legacy bundle.
+- **Public tournament stats page (~1,600 lines).** A read-only, signed-out stats page with hardened guest access.
+- **Native in-app CV editor (~1,100 lines).** Replaced a legacy hand-off editor with a fully native one.
+- **Durable background clip downloads (~1,000 lines).** Moved video-clip generation into a background job, fixing timeouts on long clips.
 
 ---
 
-## How I Build
-
-I don't believe in perfect code, but I do believe in code that doesn't make you want to quit your job six months later. Here's what guides me:
-
-- **Clarity over cleverness** — If it needs a comment to explain, it probably needs a rewrite
-- **Users over features** — Fancy tech means nothing if the experience feels clunky
-- **Iteration over perfection** — Ship, learn, improve, repeat
-- **Practical solutions** — The best code solves actual problems, not imaginary ones
-
----
-
-<div align="center">
-
-## The Numbers
-
-<img height="160" src="https://github-readme-stats-omega-silk-74.vercel.app/api/top-langs/?username=rhaprace&layout=compact&theme=default&hide_border=true" />
-<img height="160" src="https://github-readme-stats-omega-silk-74.vercel.app/api?username=rhaprace&show_icons=true&theme=default&hide_border=true&count_private=true" />
-
-</div>
-
----
-
-<div align="center">
-
-*"Make it work. Make it right. Make it fast. In that order."*
-
-**Let's build something together** → [rhap.dev@gmail.com](mailto:rhap.dev@gmail.com)
-
-</div>
+*"Make it work. Make it right. Make it fast, in that order."*
