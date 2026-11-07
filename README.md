@@ -1,40 +1,60 @@
-# Rafael Race
+<a href="https://rhaprace.github.io/"><img src="assets/header.svg" width="100%" alt="Rafael Race — software developer, Subic, Philippines" /></a>
 
-Software developer focused on web and mobile applications.
+<p align="center">
+  <a href="https://rhaprace.github.io/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/rafael-race-54033719b">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:rhap.dev@gmail.com">rhap.dev@gmail.com</a>
+</p>
 
-[LinkedIn](https://linkedin.com/in/rafael-race-54033719b) · [Email](mailto:rhap.dev@gmail.com) · [Portfolio](https://rhaprace.github.io/)
+<img src="assets/about.svg" width="100%" alt="01 About" />
 
-## About
+I build software with AI coding agents to solve real problems for real people. I plan the work, direct Claude Code, and review and test every change before it ships. Code the next person, including future me, can read and change without friction.
 
-I build web and mobile applications, with an emphasis on clean code and interfaces that feel obvious to use. I care about shipping work that holds up. Code the next person, including future me, can read and change without friction.
+```
+Role        Software Developer
+Based       Subic, Philippines
+Education   BS Information Technology, 2026
+Principle   Clarity over cleverness
+```
 
-## What I work with
+<img src="assets/stack.svg" width="100%" alt="02 Stack" />
 
-- **Frontend:** React, React Native, TypeScript, Next.js
-- **Backend:** Ruby on Rails, Node.js, FastAPI, Flask
-- **Data & infra:** PostgreSQL, GraphQL, Drizzle ORM, REST APIs, Git, Vercel
-- **AI:** prompt engineering and AI-assisted product features
+![React](https://img.shields.io/badge/React-1f2ea6?style=flat-square&logo=react&logoColor=e4e6e1) ![TypeScript](https://img.shields.io/badge/TypeScript-1f2ea6?style=flat-square&logo=typescript&logoColor=e4e6e1) ![Next.js](https://img.shields.io/badge/Next.js-1f2ea6?style=flat-square&logo=nextdotjs&logoColor=e4e6e1) ![React Native](https://img.shields.io/badge/React_Native-1f2ea6?style=flat-square&logo=react&logoColor=e4e6e1) ![Rails](https://img.shields.io/badge/Ruby_on_Rails-1f2ea6?style=flat-square&logo=rubyonrails&logoColor=e4e6e1) ![GraphQL](https://img.shields.io/badge/GraphQL-1f2ea6?style=flat-square&logo=graphql&logoColor=e4e6e1) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2ea6?style=flat-square&logo=postgresql&logoColor=e4e6e1) ![Node.js](https://img.shields.io/badge/Node.js-1f2ea6?style=flat-square&logo=nodedotjs&logoColor=e4e6e1) ![Python](https://img.shields.io/badge/Python-1f2ea6?style=flat-square&logo=python&logoColor=e4e6e1) ![Claude Code](https://img.shields.io/badge/Claude_Code-1f2ea6?style=flat-square&logo=claude&logoColor=e4e6e1) ![Vercel](https://img.shields.io/badge/Vercel-1f2ea6?style=flat-square&logo=vercel&logoColor=e4e6e1)
 
-## How I work
+<img src="assets/work.svg" width="100%" alt="03 Experience" />
 
-- Clarity over cleverness
-- Users over features
-- Ship, learn, improve
-- Solve real problems, not imaginary ones
+**Framesports.ai** — Software Developer · Sports video analytics · Remote · Dec 2025 – Oct 2026
 
-## Recent work
+Owned features end to end for a rugby video-analytics platform, from the support ticket to the live release.
 
-Since January 2026 I've merged over 1,000 pull requests into a production rugby analytics platform used by clubs and governing bodies. It's a React/TypeScript single-page app on a Ruby on Rails and GraphQL backend. I own features end to end, from spec through backend, frontend, tests and rollout, and I hold merge authority on the work I ship.
+- **Gave coaches one place to track player growth.** Built a Development page that shows each player's strengths, what to work on, and whether they watched the clips their coach sent.
+- **Opened competition stats to the public.** Built a page anyone can open, with no account needed, where a governing body shares player stats for one competition. It shows only fields cleared as public.
+- **Gave new clubs a guided start.** Shipped a six-step setup checklist that gives clubs free credits when they finish.
+- **Turned a recurring support question into one step.** Coaches kept asking how to get their club treasurer to pay for a Season Pass. Now they send an invite from the packages page and the treasurer pays directly.
+- **Stopped clubs losing footage when they switched cameras.** Clubs can now connect Hudl, Veo, YouTube and Google Drive at the same time. Before, adding a source deleted the old one.
+- **Removed a manual setup step for clubs.** Framesports now sends each Veo or Hudl club its connection invite for them.
 
-The pieces I'm proud of:
+<img src="assets/projects.svg" width="100%" alt="04 Projects" />
 
-- **Migrated the core analysis page onto the new SPA.** The screen coaches spend most of their time in: video player, event timeline, full stats infographic, clips, downloads and presentations. React and the legacy layer can't share a screen, so the smallest safe unit of work was the whole page. 114 files in one pass, with no loss of function for coaches mid-season.
-- **Rebuilt the presentation animation engine in TypeScript.** Replaced a 4,900-line legacy canvas engine with a framework-free TypeScript class, porting the rendering pipeline, camera, undo/redo and autosave with the original math and order of operations intact, so coaches saw no change in behaviour. One implementation, fully typed, legacy layer deleted.
-- **Cut the cold-load bundle back under budget.** Traced a size regression to the generated GraphQL document map, which baked every operation into the entry chunk as a parsed AST plus its query text and couldn't be tree-shaken. Switching codegen to string documents dropped the GraphQL parser from the bundle entirely: initial load 210.0 KB to 200.2 KB gzipped, entry 122.5 KB to 113.5 KB, with no call sites changed.
-- **Decoupled the SPA's dependency tree.** The app declared 13 dependencies and quietly inherited 45 more from the legacy bundle, so a root-level version bump could break it and React would split across worktrees. Gave it a real, pinned dependency tree of its own and closed that whole class of bug.
-- **Gave every email an unsubscribe path.** Coaches had no way out of notification emails short of marking us as spam. Added a signed-token unsubscribe page and a List-Unsubscribe header, and made every send path honour the opt-out, matching how consent already worked on the other channels.
-- **Took the in-app AI assistant from answering to acting.** It now proposes real changes to a coach's data and applies them once the coach confirms, rather than just describing what to do.
+`01 · PUBLIC SAFETY · 2025`<br/>
+**[Yanig](https://yanig.vercel.app/)** — Earthquake safety app for the Philippines. Live quakes from USGS, GeoNet and BMKG, Drop-Cover-Hold steps, a go-bag checklist and offline pages, in English and Tagalog.
 
----
+`02 · DEVELOPER TOOLS · 2025`<br/>
+**[env-validator-zero](https://github.com/rhaprace/env-validator-zero)** — Zero-dependency TypeScript library that checks env vars against a schema before an app starts. On npm.
 
-*"Make it work. Make it right. Make it fast. Make it beautiful."*
+`03 · DEVELOPER TOOLS · 2025`<br/>
+**[fetchpilot](https://github.com/rhaprace/fetchpilot)** — Typed `fetch` wrapper with retries, backoff, JSON parsing and consistent errors.
+
+`04 · MEDIA · 2026`<br/>
+**[video-generator](https://github.com/rhaprace/video-generator)** — Topic in, narrated 45–60s mp4 out: AI script, TTS voice, stock footage, ffmpeg.
+
+<img src="assets/activity.svg" width="100%" alt="05 Activity" />
+
+<p align="center"><img src="https://streak-stats.demolab.com?user=rhaprace&hide_border=true&border_radius=0&background=e4e6e1&stroke=1f2ea6&ring=1f2ea6&fire=1f2ea6&currStreakNum=1f2ea6&sideNums=1f2ea6&currStreakLabel=1f2ea6&sideLabels=1f2ea6&dates=1f2ea6&disable_animations=true" alt="Contribution streak" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhaprace/rhaprace/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/rhaprace/rhaprace/output/github-snake.svg" />
+</picture>
+
+<p align="center"><sub><code>MAKE IT WORK · MAKE IT RIGHT · MAKE IT FAST · MAKE IT BEAUTIFUL</code></sub></p>

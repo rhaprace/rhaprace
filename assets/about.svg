@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="44" viewBox="0 0 900 44" role="img" aria-label="About">
+<rect width="900" height="44" fill="#e4e6e1"/>
+<text x="16" y="28" fill="#1f2ea6" font-family="'IBM Plex Mono',ui-monospace,Menlo,monospace" font-size="13" letter-spacing="1.5">01 ·</text>
+<text x="62" y="30" fill="#1f2ea6" font-family="'Archivo Black','Arial Black',Impact,sans-serif" font-size="20">ABOUT</text>
+<line x1="16" y1="43" x2="884" y2="43" stroke="#1f2ea6"/>
+</svg>
